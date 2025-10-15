@@ -1,12 +1,16 @@
-## Hi, There! 👋  
-### I'm Danil, iOS Developer with QA automation background.
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" height="500"/>
+
+
+## Hi, There!  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px">  I'm Danil
+### iOS Developer with QA Automation background.
+
 
 ### 🌐 Socials:
   [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" height="40" width="40" />](https://t.me/eternal_ennui)
   [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />](https://linkedin.com/in/danil-kazakov-2380a5315)
   [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" />](https://fb.com/61560872187019)
   [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />](https://instagram.com/eternal_ennui)
-  [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" />](https://www.leetcode.com/teenagelove)
+ <!-- [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" />](https://www.leetcode.com/teenagelove) -->
 
 ### 💻 Tech Stack:
   [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" />](https://developer.apple.com/swift/)
@@ -31,3 +35,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=teenagelove&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teenagelove&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="160" />
 </div>
+<img src="https://komarev.com/ghpvc/?username=teenagelove&label=Profile%20views&color=00FFFF&style=flat-square" alt="teenagelove's profile views" />
