@@ -1,4 +1,4 @@
-## Hi, There!  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px">  I'm Danil
+## Hi there!  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px">  I'm Danil
 ### iOS Developer with QA Automation background.
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" height="350"/>
 
@@ -11,7 +11,6 @@
   [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" height="40" width="40" />](https://t.me/eternal_ennui)
   [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />](https://linkedin.com/in/danil-kazakov-2380a5315)
   [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" />](https://fb.com/61560872187019)
-  [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />](https://instagram.com/eternal_ennui)
  <!-- [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" />](https://www.leetcode.com/teenagelove) -->
 
 ### 💻 Tech Stack:
