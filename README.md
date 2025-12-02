@@ -1,4 +1,4 @@
-## Hi there!  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px">  I'm Danil
+## Hi there! I'm Danil <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px">
 ### iOS Developer with QA Automation background.
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" height="350"/>
 
@@ -33,7 +33,7 @@
 
 ### 📊 GitHub Stats:
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=teenagelove&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teenagelove&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="160" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=teenagelove&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" height="140"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=teenagelove&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="140" />
 </div>
 <img src="https://komarev.com/ghpvc/?username=teenagelove&label=Profile%20views&color=00FFFF&style=flat-square" alt="teenagelove's profile views" />
