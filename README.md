@@ -1,11 +1,8 @@
 ## Hi there! I'm Danil <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px">
-### iOS Developer with QA Automation background.
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&multiline=true&width=700&height=80&lines=iOS+Developer+with+QA+Automation+background.;" alt="Typing SVG" />
+</div>
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" height="350"/>
-
-
-
-
-
 
 ### 🌐 Socials:
   [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" height="40" width="40" />](https://t.me/eternal_ennui)
